@@ -8,9 +8,10 @@ Fork Actions are disabled; no application code has been run for this pilot.
 
 ## Current result
 
-**Not ready for deployment or Free-tier acceptance.** The button records the fork
-and explicit `master` branch for a future gated deployment. It is not evidence of
-a working launch. No demo exists.
+**Not ready for deployment or Free-tier acceptance.** The badge is not a launch
+link. The intended URL is recorded as code with NOTREADY in the README, retaining
+the fork and explicit `master` branch for a future gated deployment. It is not
+evidence of a working launch. No demo exists.
 
 The upstream Docker publication for the October session fix
 [failed](https://github.com/asciimoo/omnom/actions/runs/37103531792): `go.mod`

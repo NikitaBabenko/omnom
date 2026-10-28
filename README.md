@@ -8,7 +8,13 @@ A web content preservation service
 
 ## VibeNest pilot (blocked; not verified)
 
-[![Deploy to VibeNest](https://img.shields.io/badge/Deploy%20to-VibeNest-7c3aed)](https://vibenest.net/deploy?repo=https://github.com/NikitaBabenko/omnom&branch=master)
+![Deploy to VibeNest — NOTREADY](https://img.shields.io/badge/Deploy%20to-VibeNest-7c3aed)
+
+**NOTREADY — intended deployment URL, not an active launch button:**
+
+```text
+https://vibenest.net/deploy?repo=https://github.com/NikitaBabenko/omnom&branch=master
+```
 
 This fork is a static deployment investigation, **not a working one-click deployment**.
 Do not launch this pilot yet. The published upstream container predates the session
