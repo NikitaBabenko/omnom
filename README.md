@@ -6,6 +6,16 @@
 
 A web content preservation service
 
+## VibeNest pilot (blocked; not verified)
+
+[![Deploy to VibeNest](https://img.shields.io/badge/Deploy%20to-VibeNest-7c3aed)](https://vibenest.net/deploy?repo=https://github.com/NikitaBabenko/omnom&branch=master)
+
+This fork is a static deployment investigation, **not a working one-click deployment**.
+Do not launch this pilot yet. The published upstream container predates the session
+signing fix, and the current source requires an authorized build environment and a
+completed private-instance review. No Free-tier acceptance or demo is available.
+Read the [pilot status and setup requirements](VIBENEST.md) first.
+
 
  - Bookmark with website snapshots
  - Aggregate feeds
